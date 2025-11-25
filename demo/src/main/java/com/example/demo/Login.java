@@ -12,8 +12,8 @@ public class Login extends JPanel {
         setLayout(new GridBagLayout());
         GridBagConstraints gbc = new GridBagConstraints();
 
-        JLabel lblUser = new JLabel("Username :");
-        JLabel lblPass = new JLabel("Password :");
+        JLabel lblUser = new JLabel("Nom d'utilisateur :");
+        JLabel lblPass = new JLabel("Mot de passe :");
 
         username = new JTextField(15);
         password = new JPasswordField(15);
