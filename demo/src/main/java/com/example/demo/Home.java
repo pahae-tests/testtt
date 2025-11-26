@@ -10,7 +10,7 @@ import java.util.List;
 
 public class Home extends JPanel {
     // --- Palette de couleurs modernes ---
-    private static final Color PRIMARY_COLOR = new Color(40, 42, 54); // Fond sombre élégant
+    private static final Color PRIMARY_COLOR = new Color(40, 42, 100); // Fond sombre élégant
     private static final Color SECONDARY_COLOR = new Color(68, 71, 90); // Gris bleuâtre
     private static final Color ACCENT_COLOR = new Color(139, 233, 253); // Bleu électrique
     private static final Color TEXT_COLOR = new Color(255, 255, 255); // Blanc
